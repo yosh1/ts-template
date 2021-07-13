@@ -3,4 +3,4 @@
 ---
 
 ## setup
-run `./setup.js` .
+`node setup.js` .
